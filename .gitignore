@@ -1,0 +1,10 @@
+*.dato
+prelim_results
+.DS_STORE
+.DS_STORE?
+._*.Trashes
+ethumbs.db
+Thumbs.db
+# Jupyter Notebook
+.ipynb_checkpoints
+
